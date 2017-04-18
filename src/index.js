@@ -12,3 +12,5 @@ const App = () => {
 //put into DOM components generated HTML
 ReactDOM.render(<App />, document.querySelector('.container')); //inside tag creates instance of app, instead of a component class
 //second argument references where to put it on the DOM
+
+//ONE COMPONENT PER FILE!!!
