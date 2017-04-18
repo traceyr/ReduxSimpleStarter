@@ -2,6 +2,7 @@
 import React from 'react'; //create and manage components
 import ReactDOM from 'react-dom'; //interacts with DOM
 
+const API_KEY = 'AIzaSyCl7wsYNF0wB2c5bfp2g4pf75l8z6yvdWo';
 //Create new component. This compment will produce HTML
 const App = () => {
   return <div>Hi!</div>; //jsx looks like html but is js
